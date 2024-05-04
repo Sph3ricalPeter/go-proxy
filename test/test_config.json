@@ -1,0 +1,8 @@
+{
+    "Name": "go-proxy",
+    "Host": "localhost",
+    "Port": 8080,
+    "Targets": {
+        "/somepath": "someurl"
+    }
+}   
